@@ -1,6 +1,6 @@
 # 💉 Patching apps
 
-Learn how to use ReVanced Manager to patch apps.
+Learn how to use PureTube to patch apps.
 
 ## ✅ Steps to patch apps
 

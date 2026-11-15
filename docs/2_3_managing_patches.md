@@ -22,5 +22,5 @@ Select on one of the patches from the list to manage or remove it.
 
 The next page will explain how to manage downloaders.
 
-Continue: [🔄 Updating ReVanced Manager](2_4_managing_downloaders.md)
+Continue: [🔄 Updating PureTube](2_4_managing_downloaders.md)
 

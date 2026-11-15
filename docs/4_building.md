@@ -1,6 +1,6 @@
 # 🛠️ Build from source
 
-This page will guide you through building ReVanced Manager from source.
+This page will guide you through building PureTube from source.
 
 1. Install Java Development Kit 17 (e.g. [Temurin JDK](https://adoptium.net/temurin/releases/?os=any&arch=any&version=17))
 
@@ -17,7 +17,7 @@ This page will guide you through building ReVanced Manager from source.
 2. Clone the repository
 
    ```sh
-   git clone https://github.com/revanced/revanced-manager.git && cd revanced-manager
+   git clone https://github.com/revanced/puretube.git && cd puretube
    ```
 
 3. Build the APK

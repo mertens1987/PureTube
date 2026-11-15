@@ -18,23 +18,23 @@ Second \"item\" text"</string>
   <string name="onboarding_welcome_to">Velkomin í</string>
   <string name="onboarding_welcome_back">Hæ! Þetta er nýja</string>
   <string name="onboarding_apps_subtitle">Þú getur valið forrit til að plástra núna eða gert það síðar</string>
-  <string name="onboarding_updates_subtitle">Stilltu sjálfvirkar uppfærslur til að halda ReVanced Manager og plástrum uppfærðum</string>
-  <string name="onboarding_updates_note">ReVanced Manager mun tengjast við %s til að sækja upphaflegar útgáfur ef tækið þitt er tengt internetinu.</string>
+  <string name="onboarding_updates_subtitle">Stilltu sjálfvirkar uppfærslur til að halda PureTube og plástrum uppfærðum</string>
+  <string name="onboarding_updates_note">PureTube mun tengjast við %s til að sækja upphaflegar útgáfur ef tækið þitt er tengt internetinu.</string>
   <string name="retry">Reyna aftur</string>
   <string name="onboarding_skip">Sleppa í bili</string>
   <string name="onboarding_recommended_version">Ráðlögð útgáfa: %s</string>
   <string name="onboarding_permissions_skip_title">Sleppa heimildum?</string>
   <string name="onboarding_permissions_skip_description">Án nauðsynlegra heimilda gætu sumar aðgerðir ekki virkað rétt. Þú getur veitt þær síðar í stillingum forritsins.</string>
   <string name="onboarding_permissions_skip_anyway">Sleppa samt</string>
-  <string name="onboarding_permissions_subtitle">ReVanced Manager þarf nokkrar heimildir til að virka rétt</string>
+  <string name="onboarding_permissions_subtitle">PureTube þarf nokkrar heimildir til að virka rétt</string>
   <string name="permission_install_apps">Setja upp óþekkt forrit</string>
   <string name="permission_install_apps_description">Nauðsynlegt til að setja upp plástruð forrit</string>
   <string name="permission_notifications">Tilkynningar</string>
   <string name="permission_battery">Hagræðing rafhlöðu</string>
   <string name="permission_battery_description">Kemur í veg fyrir að plástrun sé trufluð í bakgrunni</string>
   <string name="permission_grant">Veita</string>
-  <string name="downloader_host_permission_label">ReVanced Manager niðurhala gestgjafi</string>
-  <string name="downloader_host_permission_description">Notað til að stjórna aðgangi að ReVanced Manager niðurhölurum. Aðeins ReVanced Manager hefur þetta.</string>
+  <string name="downloader_host_permission_label">PureTube niðurhala gestgjafi</string>
+  <string name="downloader_host_permission_description">Notað til að stjórna aðgangi að PureTube niðurhölurum. Aðeins PureTube hefur þetta.</string>
   <string name="fab_patch_app">Plástra forrit</string>
   <string name="fab_add_patches">Bæta við plástrum</string>
   <string name="new_downloader_notification">Nýir niðurhalarar eru í boði. Smelltu hér til að stilla þá.</string>
@@ -52,13 +52,13 @@ Second \"item\" text"</string>
   <string name="apk_source_auto_downloader">Sjálfvirkt · Notar tiltæka niðurhalara</string>
   <string name="apk_source_auto_storage">Sjálfvirkt · Velja úr geymslu</string>
   <string name="apk_source_downloaded">Þegar niðurhalað</string>
-  <string name="auto_updates_dialog_description">Viltu að ReVanced Manager athugi reglulega hvort nýjar uppfærslur séu til staðar fyrir eftirfarandi íhluti?</string>
-  <string name="auto_updates_dialog_manager">ReVanced Manager</string>
+  <string name="auto_updates_dialog_description">Viltu að PureTube athugi reglulega hvort nýjar uppfærslur séu til staðar fyrir eftirfarandi íhluti?</string>
+  <string name="auto_updates_dialog_manager">PureTube</string>
   <string name="auto_updates_dialog_patches">ReVanced plástrar</string>
-  <string name="auto_updates_dialog_downloaders">ReVanced Manager: Niðurhalarar</string>
+  <string name="auto_updates_dialog_downloaders">PureTube: Niðurhalarar</string>
   <string name="auto_updates_dialog_note">Þessum stillingum er hægt að breyta síðar.
 
-    ReVanced Manager mun tengjast við %s til að sækja upphaflegar útgáfur ef tækið þitt er tengt internetinu.</string>
+    PureTube mun tengjast við %s til að sækja upphaflegar útgáfur ef tækið þitt er tengt internetinu.</string>
   <string name="announcements_filter_tag">Sía eftir merki</string>
   <string name="announcements_show_archived">Sýna geymdar</string>
   <string name="updates_description">Athugaðu hvort uppfærslur séu í boði og skoðaðu breytingaskrá</string>
@@ -84,13 +84,13 @@ Second \"item\" text"</string>
   <string name="downloader_delete_apps_title">Eyða völdum forritum</string>
   <string name="downloader_delete_apps_description">Ertu viss um að þú viljir eyða völdum forritum?</string>
   <string name="downloader_delete_single_description">Ertu viss um að þú viljir eyða „%s“?</string>
-  <string name="downloader_settings_no_apps_description">Forrit sem hafa verið niðurhaluð í gegnum ReVanced Manager munu birtast hér.</string>
+  <string name="downloader_settings_no_apps_description">Forrit sem hafa verið niðurhaluð í gegnum PureTube munu birtast hér.</string>
   <string name="downloader_url">Vefslóð niðurhala</string>
   <string name="downloader_add">Bæta við niðurhala</string>
   <string name="select_downloader_type_dialog_description">Bæta við nýjum niðurhölum af vefslóð eða staðbundnum skrám</string>
   <string name="local_downloaders_description">Bæta við niðurhölum úr staðbundinni geymslu.</string>
   <string name="remote_downloaders_description">Bæta við niðurhölum af vefslóð. Hægt að uppfæra sjálfvirkt.</string>
-  <string name="install_revanced_downloaders">Settu upp niðurhalara til að fá forrit beint innan ReVanced Manager.</string>
+  <string name="install_revanced_downloaders">Settu upp niðurhalara til að fá forrit beint innan PureTube.</string>
   <string name="install_revanced_downloader">Settu upp ReVanced niðurhalara</string>
   <string name="cancel_downloader_install_title">Hætta við uppsetningu niðurhalara?</string>
   <string name="cancel_downloader_install_description">Uppsetning niðurhalara er í gangi. Ef þú ferð núna verður niðurhalinu hætt.</string>

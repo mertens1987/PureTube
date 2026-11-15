@@ -33,7 +33,7 @@ class AdvancedSettingsViewModel(
         get() {
             val time = DateTimeFormatter.ISO_LOCAL_DATE_TIME.format(LocalDateTime.now())
 
-            return "revanced-manager_logcat_$time"
+            return "puretube_logcat_$time"
         }
 
     fun exportDebugLogs(target: Uri) = viewModelScope.launch {

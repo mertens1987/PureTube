@@ -277,7 +277,7 @@ fun <R> (() -> R).withHapticFeedback(constant: Int): () -> R {
             view.performHapticFeedback(constant)
         } catch (e: NullPointerException) {
             // Note, some devices using RichTap hardware reported crashing, what??
-            // https://github.com/ReVanced/revanced-manager/issues/3224
+            // https://github.com/ReVanced/puretube/issues/3224
             Log.e("RVM-Util/Vibration", "Vibration failed with NPE, what?", e)
         }
         this()
@@ -293,7 +293,7 @@ fun <T, R> ((T) -> R).withHapticFeedback(constant: Int): (T) -> R {
             view.performHapticFeedback(constant)
         } catch (e: NullPointerException) {
             // Note, some devices using RichTap hardware reported crashing, what??
-            // https://github.com/ReVanced/revanced-manager/issues/3224
+            // https://github.com/ReVanced/puretube/issues/3224
             Log.e("RVM-Util/Vibration", "Vibration failed with NPE, what?", e)
         }
         this(it)

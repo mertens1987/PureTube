@@ -59,7 +59,7 @@ class DashboardViewModel(
      * Android 11 kills the app process after granting the "install apps" permission, which is a problem for the patcher screen.
      * This value is true when the conditions that trigger the bug are met.
      *
-     * See: https://github.com/ReVanced/revanced-manager/issues/2138
+     * See: https://github.com/ReVanced/puretube/issues/2138
      */
     val android11BugActive get() = Build.VERSION.SDK_INT == Build.VERSION_CODES.R && !pm.canInstallPackages()
 

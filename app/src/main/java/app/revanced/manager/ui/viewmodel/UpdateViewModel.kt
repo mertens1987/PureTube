@@ -115,7 +115,7 @@ class UpdateViewModel(
         }
 
         viewModelScope.launch {
-            uiSafe(app, R.string.download_manager_failed, "Failed to download ReVanced Manager") {
+            uiSafe(app, R.string.download_manager_failed, "Failed to download PureTube") {
                 releaseInfo = managerUpdateRepository.getUpdateOrNull()
                     ?: throw Exception("No update available")
 

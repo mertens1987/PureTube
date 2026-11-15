@@ -108,7 +108,7 @@ class MainViewModel(
                 null
             }
 
-        val keystoreFile = File(app.getExternalFilesDir(null), "/revanced-manager.keystore")
+        val keystoreFile = File(app.getExternalFilesDir(null), "/puretube.keystore")
         val keystore: ByteArray? = if (keystoreFile.exists()) {
             val bytes = keystoreFile.readBytes()
 
