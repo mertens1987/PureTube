@@ -13,12 +13,12 @@ jobs:
         with:
           distribution: 'temurin'
           java-version: '17'
-      - uses: subosito/flutter-action@v2
-        with:
-          channel: 'stable'
-      - run: flutter pub get
-      - run: flutter build apk --release
-      - uses: actions/upload-artifact@v4
+      - name: Gradle izinlerini ver
+        run: chmod +x gradlew
+      - name: APK Derle
+        run: ./gradlew assembleRelease
+      - name: APK Yukle
+        uses: actions/upload-artifact@v4
         with:
           name: PureTube-APK
-          path: build/app/outputs/flutter-apk/app-release.apk
+          path: app/build/outputs/apk/release/*.apk
