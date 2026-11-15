@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💊 PureTube
 
 This documentation explains how to use [PureTube](https://github.com/revanced/puretube).
@@ -21,3 +22,6 @@ This documentation explains how to use [PureTube](https://github.com/revanced/pu
 The next page will tell you about the prerequisites for using PureTube.
 
 Continue: [💼 Prerequisites](0_prerequisites.md)
+=======
+#PureTube
+>>>>>>> 3a658a09720941843ff1c405f298071ebc76cddd
